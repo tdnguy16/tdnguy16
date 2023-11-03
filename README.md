@@ -2,4 +2,4 @@
 - 👀 I’m interested in using data science to deal with daily life problem.
 - 🌱 I’m currently learning Python and its libraries.
 - 💞️ I’m looking to collaborate on machine learning.
-- 📫 Reach me at tdnguy16@gmail.com
+- 📫 Reach me at tiendn@umich.edu
